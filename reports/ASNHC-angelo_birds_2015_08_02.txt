@@ -1,0 +1,83 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "broad-tailed hummingbird" ; Times: 1
+	Query: "calliope hummingbird" ; Times: 1
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdii" ; Times: 1
+	Query: "Melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "Montezuma Quail" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Coccyzus year >= 1982" ; Times: 1
+	Query: "cyanolyca nana" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Coccyzus year >= 1982 year <= 1982" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1084 download events in this period)
+Total number of records downloaded: 61 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 42
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 69
+Total number of records retrieved from searches: 231
+Number of download events that retrieved data from the resource: 56
+Total number of records downloaded: 472
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 69
+Total number of records retrieved from searches: 231
+Number of download events that retrieved data from the resource: 56
+Total number of records downloaded: 472
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
