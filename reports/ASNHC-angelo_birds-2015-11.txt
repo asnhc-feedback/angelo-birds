@@ -1,0 +1,76 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Denmark ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-13 ; Times: 2
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (militaris)" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 2
+	Query: "Catherpes tissue:1" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 2
+	Query: "eudyptes tissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 751 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 11
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-23 ; Times: 3
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "common myna" ; Times: 2
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Corydon Aves type:specimen" ; Times: 2
+	Query: "Sterna fuscata" ; Times: 1
+	Query: "halcyon senegalensis" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+
+
+End of report.
