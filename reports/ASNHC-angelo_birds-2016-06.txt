@@ -1,0 +1,66 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 299
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 4
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-03 ; Times: 2
+	Date: 2016-06-11 ; Times: 3
+	Date: 2016-06-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:163 institutioncode:ASNHC" ; Times: 1
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "Aves institutioncode:ASNHC tissue:1" ; Times: 2
+	Query: "melanerpes aurifrons tissue:1" ; Times: 2
+	Query: "Otus kennicotti" ; Times: 3
+	Query: "catalognumber:167 institutioncode:ASNHC" ; Times: 1
+	Query: "querula purpurata" ; Times: 7
+	Query: "Aves institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:168 institutioncode:ASNHC" ; Times: 2
+	Query: "jambu fruit dove" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1052 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
