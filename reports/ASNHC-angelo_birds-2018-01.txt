@@ -1,0 +1,84 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 48
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-15 ; Times: 10
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-16 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "Formicarius analis" ; Times: 1
+	Query: "Tyrannus couchii" ; Times: 1
+	Query: "lipaugus guyana" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Xenops minutus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Glyphorynchus spirurus" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "haematoderus" ; Times: 2
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Dendrocygna autumnalis autumnalis vntype:specimen" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1398 download events in this period)
+Total number of records downloaded: 39
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "pinyon jay" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+
+
+End of report.
