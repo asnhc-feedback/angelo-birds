@@ -1,0 +1,70 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 30
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: United Kingdom ; Times: 26
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-26 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "Burrowing owl" ; Times: 1
+	Query: "Crax alberti" ; Times: 1
+	Query: "Chalcopsitta duivenbodei" ; Times: 26
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 809 download events in this period)
+Total number of records downloaded: 272
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: India ; Times: 7
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 5
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+
+
+End of report.
