@@ -1,0 +1,92 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Peru ; Times: 25
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 5
+	Date: 2019-01-09 ; Times: 4
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 8
+	Date: 2019-01-21 ; Times: 5
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Campephilus rubricollis" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "Pithys albifrons" ; Times: 1
+	Query: "Trogon melanurus" ; Times: 1
+	Query: "Thamnomanes ardesiacus" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 4
+	Query: "Trogon viridis" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myrmoborus leucophrys" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "specificepithet:platypterus genus:buteo stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "Sclerurus rufigularis" ; Times: 1
+	Query: "Forpus xanthopterygius" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Aulacorhynchus coeruleicinctis" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "crax alberti" ; Times: 5
+	Query: "Thamnophilus murinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 962 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "PIONUS SENILIS" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+
+
+End of report.
