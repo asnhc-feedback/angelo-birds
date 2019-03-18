@@ -1,0 +1,77 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ASU 1789" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 2
+	Query: "Crax alberti" ; Times: 2
+	Query: "specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "montezuma quail" ; Times: 2
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "Ara militaris" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1227 download events in this period)
+Total number of records downloaded: 73
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "vntype:specimen specificepithet:militaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "(Aphelocoma) year &gt;= 1985 year &lt;= 1990" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+
+
+End of report.
