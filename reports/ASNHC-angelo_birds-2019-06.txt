@@ -1,0 +1,86 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 25
+	Date: 2019-06-24 ; Times: 2
+	Date: 2019-06-10 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rhynchopsitta specificepithet:pachyrhyncha" ; Times: 1
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 2
+	Query: "genus:Dromaius specificepithet:novaehollandiae" ; Times: 1
+	Query: "genus:Neophema specificepithet:splendida" ; Times: 1
+	Query: "genus:Toxostoma specificepithet:longirostre" ; Times: 1
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 1
+	Query: "genus:Tinamus specificepithet:major" ; Times: 1
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "genus:Chelidoptera specificepithet:tenebrosa" ; Times: 1
+	Query: "genus:Anseranas specificepithet:semipalmata" ; Times: 2
+	Query: "genus:Calcarius specificepithet:mccownii" ; Times: 1
+	Query: "genus:Coracias specificepithet:cyanogaster" ; Times: 1
+	Query: "genus:Formicarius specificepithet:analis" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:vociferus" ; Times: 1
+	Query: "Asnhc 1282" ; Times: 1
+	Query: "genus:Cotinga specificepithet:cayana" ; Times: 1
+	Query: "genus:Nyctibius specificepithet:griseus" ; Times: 1
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 1
+	Query: "asnhc 1282" ; Times: 1
+	Query: "genus:Rhea specificepithet:americana" ; Times: 1
+	Query: "genus:Lipaugus specificepithet:vociferans" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 1
+	Query: "genus:Opisthocomus specificepithet:hoazin" ; Times: 1
+	Query: "genus:Pionopsitta specificepithet:haematotis" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "genus:Parabuteo specificepithet:unicinctus" ; Times: 1
+	Query: "genus:Campephilus specificepithet:rubricollis" ; Times: 1
+	Query: "genus:Capito specificepithet:niger" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1182 download events in this period)
+Total number of records downloaded: 135
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 6
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 8
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "Yellow bellied sapsucker" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "veery" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 2
+	Query: "specificepithet:pavonina genus:balearica" ; Times: 4
+
+
+End of report.
