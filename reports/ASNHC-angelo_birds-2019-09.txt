@@ -1,0 +1,57 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 456
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 94
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 8
+	Date: 2019-09-04 ; Times: 20
+	Date: 2019-09-06 ; Times: 65
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 24
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 15
+	Query: "hastissue:1 eudyptes" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "Calidris canutus" ; Times: 5
+	Query: "Empidonax traillii" ; Times: 8
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1073 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "campylorhynchus brunneicapillus hastissue:1" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "campylorhynchus hastissue:1" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
