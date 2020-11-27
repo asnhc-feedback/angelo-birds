@@ -1,0 +1,53 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 20
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "blue-banded toucanet" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "genus:Baelophus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "class:Aves county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 853 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "northern flicker" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
