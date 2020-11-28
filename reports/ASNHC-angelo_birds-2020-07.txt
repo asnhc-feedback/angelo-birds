@@ -1,0 +1,50 @@
+Report for Institution Code ASNHC, Resource angelo_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Audubon Townsend" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus savana" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Pheucticus ludovicianus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 940 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "grus canadensis" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
